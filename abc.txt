@@ -1,1 +1,3 @@
 practicing commands of git.
+now my doubt has got cleared.
+thanks!
